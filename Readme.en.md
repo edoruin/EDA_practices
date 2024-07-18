@@ -1,3 +1,4 @@
+Change to spanish: https://github.com/edoruin/EDA_practices/blob/main/README.md
 # Index
 
 1. [About](#About)
