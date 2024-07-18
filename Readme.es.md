@@ -12,7 +12,7 @@ Este es un repositorio recopilatorio de todas mis practicas en relacion con el a
 
 # Proyectos 
 
-## EDA_1
+## [EDA_1](https://github.com/edoruin/EDA_practices/blob/main/EDA_1.ipynb)
 Esta es una practica simple sobre el proceso de exploracion de los datos, enfocado en la productividad y eficancia de las visualizaciones encima de su complejidad. El objeetivo es mejorar 
 la calidad de mis conclusiones y los objetivos que encuentro a analizar en la data.
 
