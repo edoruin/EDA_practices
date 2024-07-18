@@ -7,6 +7,7 @@
 ## About
 
 This is a repository compiling all my practices related to data analysis.
+
 ---
 
 # Projects 
