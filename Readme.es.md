@@ -2,7 +2,6 @@ Change to english:
 # Indice
 
 1. [Acerca de](#Acerca-de)
-   
 2.[EDA_1](#EDA_1)
 
 ## Acerca de
