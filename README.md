@@ -1,4 +1,4 @@
-Change to english: 
+Change to english: https://github.com/edoruin/EDA_practices/blob/main/Readme.en.md
 # Indice
 
 1. [Acerca de](#Acerca-de)
